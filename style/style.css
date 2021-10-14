@@ -1,5 +1,5 @@
 header {
-    padding: bottom;
+    padding: 50px;
     text-align: center;
     background: #bc1a35;
     color: white;
@@ -23,5 +23,5 @@ ul {
 h1 {
     font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
+    text-align: start;
 }
