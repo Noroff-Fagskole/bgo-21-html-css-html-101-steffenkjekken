@@ -1,12 +1,17 @@
 header {
-    padding: 60px;
+    padding: 25px;
     text-align: center;
     background: #bc1a35;
     color: white;
     font-size: 30px;
 }
+ul{
+    align-items:baseline;
+    font-size: 20px;
+    color: honeydew;
+}
 h1 {
-    font-size: large;
+    font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
