@@ -35,8 +35,12 @@ nav {
   }
   nav a {
       text-decoration: none;
-      padding-left: 50px;
+      padding-left: 7px;
       float: left;
       color: honeydew;
+      text-align: center;
+  }
+  ul {
+      list-style-type: none;
       text-align: center;
   }
